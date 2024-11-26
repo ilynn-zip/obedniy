@@ -1,6 +1,6 @@
 # Обедный
 ***Маленький обедный таймер***\
-[Скачать архив](https://github.com/ilynn-zip/obedniy/archive/refs/heads/main.zip)
+**[Скачать архив](https://github.com/ilynn-zip/obedniy/archive/refs/heads/main.zip)**
 ### Установка
 Запуск `Setup.exe`\
 Дальше читаем.
